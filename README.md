@@ -19,3 +19,4 @@
 </div>
 
 ##
+![Badge Improvement](http://img.shields.io/static/v1?label=STATUS&message=continuous%20improvement&color=GREEN&style=for-the-badge)
