@@ -1,4 +1,4 @@
-## Hi there 👋. I'm Alex Oliveira.
+## Hi dear 👋. I'm Alex Oliveira.
 
 <div style="display: inline_block">
   <a href="https://github.com/alex0liveira">
