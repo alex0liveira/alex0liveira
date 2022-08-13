@@ -1,6 +1,6 @@
 ## Hi dear 👋. I'm Alex Oliveira.
 
-<div style="display: inline_block">
+<div align="center">
   <a href="https://github.com/alex0liveira">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alex0liveira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex0liveira&layout=compact&langs_count=7&theme=algolia"/>
